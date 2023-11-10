@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Facebook login or registration</title>
+<link rel="stylesheet" href="New/From.css">
+
+    <h1>Facebook</h1>
+   
+  </head>
+  <body>
+    <div class="from"></div>
+    <from action="">
+ <h2>login</h2>
+ <div class="input-box">
+   <input type="text" placeholder="username" required>
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAZhJREFUaEPtmGtuAyEMhJ2TtTlZm5OlPVmqkYJEYAtjsI1WAWn/JDz8+TF49yInH5eT2y8bYHUERyPwJSKfzyeC4UdEvkXktzxsBOBDRLDhigGIW37wCMA90POlk+C46yzAY4XrszNfnD4SgbcEQO4i/KkIUUf4DUKgHeERqAovsxhqhv81IxSgKroDS7UQoQBIkUq7CwitLIcCsCKhEYYNoPHWkhQqDSzTQAPQUqBUCtqbvZtClgAwMlxGrQEAUXaTUB6kl/YOwF7hEdBcUszcDaApYsaj2jnhEUh5XjZzqcC1DV0YACOhyfuafsgdgGngjtKGbbFdAUaNz4F6F5srANM6MEXbEgo3AAvvMzXhBmDlfUC0itoNgO39mRTCnP/SyA2ANWx23gY4fSvR0+nZFGmtpz4t9t4HNNe+NUyldEfK0QOAUey1bwUAz+N5+TJdvd08T2MArAyb3mc0AtMHW22wAaw8OboPE4HRvdl1Uy3I0eJomTQHaDVSrFc181wAYEDUjesGoPHisrlT9Muszg7eAKuj8AcE2Ggx5odGvwAAAABJRU5ErkJggg=="/>
+
+
+ </div>
+ <div class="input-box">
+ <input type="password" placeholder="Password" required>
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAY1JREFUaEPtWAsOwiAM7U6mnkw9mXoyzUtGMpsCXVtwREiMxvF5n5YVFhq8LYPjp0ng1w62cOBEROeV2I2InutvfOPziiQdTeBKRABdaiCBPiFEoghogHNSIHH3uhFBwAI+4XaT8BJAvKcY34qZwggKow8a/ku5se3rwuAaTEQPAVRJVYmwywUPAQkMFK4lpxRymnFiungIcCAIpYsyKflYswseAjx89qg4PAEY9WZumcQ0DVoXDgGgDLlst0lgI41HDLMRnkVnCJllD7J9KAewb2Ofl2qZCCH5HOqSW5MDuYKtBfDdJbeGgFSw9QCPNarliYYAj/Ve4NM6RYyTQAc7pgN/mQPpDijdOmArzp2Ja1HYPYRKW5/lBqM7gdLJbHgC0knscCFUcsBSlnQPob33QodzAIAkFyzqY67uDuRqGOv7ZBKIUi5qnq+caVmN8rknAWm7aulAbXvUPncn8fBHSkv9olW31q96460JISziKYdrIKXnvBxvcrlrARY+RutA+MJRE04CUUpa5/kA9aZbMT5R+jIAAAAASUVORK5CYII="/>
+ </div>
+    <div class="remember-forget">
+    <labal><input type="check-box">remember me</labal>
+    <a href="#">forget password?</a>
+    </div>
+    <button type="ssubmit"class="btn">login</button>
+    <div class="registration-link">
+      <p>Don't have an accounts?</p>
+      
+     <a href="#">Registrar</a></p>
+    </div>
+    </from>
+    </div>
+  </body>
+</html>
